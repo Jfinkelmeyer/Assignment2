@@ -1,14 +1,14 @@
-Status : INCOMPLETE - at least one check did not pass
+Status : COMPLETE - all checks passed
 Points : 40 / 40  (from check.py; counts only when the Git and GitHub checks pass)
 
 CS 1430 Assignment 2: The Cost of College
-GitHub user : unknown
-Repository  : unknown
-Commit      : unknown
-Message     : 
-Author      : 
-Committed   : 
-Checked     : 2026-10-13 11:55:35 Central Daylight Time
+GitHub user : Jfinkelmeyer
+Repository  : https://github.com/Jfinkelmeyer/Assignment2
+Commit      : 9220033d723b2422021c7c52c36d4448f8726acd
+Message     : Commit assignment2 to github
+Author      : John Finkelmeyer <finkelmeyerj@uwplatt.edu>
+Committed   : 2026-10-13T12:30:55-05:00
+Checked     : 2026-10-13 12:34:10 Central Daylight Time
 Python      : 3.14.7
 
 ================================================================
@@ -36,9 +36,10 @@ CHECK RESULTS
 --- Git and GitHub (required for your points to count) ---
 [PASS] Git is installed
 [PASS] This folder is a Git repository
-[FAIL] You have committed your own work
-   > So far there is only the template's first commit.
-   > In Source Control, type a message and click Commit.
+[PASS] You have committed your own work
+[PASS] Your latest changes are committed
+[PASS] Your repo is connected to GitHub
+[PASS] Your commit is pushed to GitHub
 
 POINTS FROM check.py: 40 / 40
 
@@ -50,6 +51,7 @@ Enter the total cost for one year: Enter the number of credits for this semester
 3. Cost per class day
 4. Cost per credit
 5. Cost per class meeting
+6. Cost per professor
 Q. Quit
 Choose an option: One semester costs: $7,300.50
 1. Cost per semester
@@ -57,6 +59,7 @@ Choose an option: One semester costs: $7,300.50
 3. Cost per class day
 4. Cost per credit
 5. Cost per class meeting
+6. Cost per professor
 Q. Quit
 Choose an option: One month costs: $1,622.33
 1. Cost per semester
@@ -64,6 +67,7 @@ Choose an option: One month costs: $1,622.33
 3. Cost per class day
 4. Cost per credit
 5. Cost per class meeting
+6. Cost per professor
 Q. Quit
 Choose an option: One class day costs: $97.34
 1. Cost per semester
@@ -71,6 +75,7 @@ Choose an option: One class day costs: $97.34
 3. Cost per class day
 4. Cost per credit
 5. Cost per class meeting
+6. Cost per professor
 Q. Quit
 Choose an option: One credit costs: $486.70
 1. Cost per semester
@@ -78,6 +83,7 @@ Choose an option: One credit costs: $486.70
 3. Cost per class day
 4. Cost per credit
 5. Cost per class meeting
+6. Cost per professor
 Q. Quit
 Choose an option: One class meeting costs: $32.45
 1. Cost per semester
@@ -85,5 +91,6 @@ Choose an option: One class meeting costs: $32.45
 3. Cost per class day
 4. Cost per credit
 5. Cost per class meeting
+6. Cost per professor
 Q. Quit
 Choose an option:
